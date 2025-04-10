@@ -1,2 +1,2 @@
-web: gunicorn Asistente-2025:app
+web: gunicorn asistente_2025:app
 
