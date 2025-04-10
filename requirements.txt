@@ -1,7 +1,8 @@
 Flask
-flask-cors
+Flask-Cors
 openai
 SpeechRecognition
 pyttsx3
 gunicorn
+
 
