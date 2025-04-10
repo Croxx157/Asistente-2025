@@ -1,1 +1,2 @@
-web: python Asistente-2025.py
+web: gunicorn Asistente-2025:app
+
